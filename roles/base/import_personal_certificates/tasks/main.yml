@@ -1,5 +1,7 @@
-# main task: personal_certificates
 ---
+
+# main task: personal_certificates
+
 - name: Import personal certificates into certificate store
   ibm.isam.isam:
     log: "{{ log_level | default(omit) }}"

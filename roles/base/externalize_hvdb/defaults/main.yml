@@ -1,3 +1,5 @@
+---
+
 # These are default values as in LMI - override as necessary
 externalize_hvdb_cfgdb_embedded: True
 externalize_hvdb_dsc_client_grace_period: 600

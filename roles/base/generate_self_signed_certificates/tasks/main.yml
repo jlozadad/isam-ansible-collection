@@ -1,3 +1,5 @@
+---
+
 # main task for generating self signed certificates
 # Example inventory:
 #  generate_self_signed_certificates:

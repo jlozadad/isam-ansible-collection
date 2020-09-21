@@ -1,3 +1,5 @@
+---
+
 # main task to upload a snapshot
 - name: Upload a snapshot
   ibm.isam.isam:

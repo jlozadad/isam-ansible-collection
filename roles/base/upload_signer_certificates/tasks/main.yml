@@ -1,10 +1,12 @@
+---
+
 # main task to upload signer certificates
 #   Example:
 #      upload_signer_certificates:
 #         -   kdb_id: "{{ item.kdb_id }}"
 #             cert: "{{ inventory_dir }}/{{ item.cert  }}"
 #             label: "{{ item.label }}"
----
+
 - name: Upload signer certificates
   ibm.isam.isam:
     log: "{{ log_level | default(omit) }}"

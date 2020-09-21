@@ -1,2 +1,4 @@
+---
+
 # Default variables for extracting certificates from database
 extract_certificates: []

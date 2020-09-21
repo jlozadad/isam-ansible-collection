@@ -1,3 +1,4 @@
+---
 # main task for extracting certificates
 # Example inventory:
 #  extract_certificates:
